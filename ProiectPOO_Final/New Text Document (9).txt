@@ -1,3 +1,9 @@
 CinemaCMS
 g++ -O3 -std=c++17 main.cpp -o cinemax -lncurses
 ./cinemax
+
+conturi utilizatori:
+nume:admin
+Parola:admin
+nume:casier
+parola:casier
