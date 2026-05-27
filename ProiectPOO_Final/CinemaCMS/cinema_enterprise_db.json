@@ -1,0 +1,641 @@
+[
+    {
+        "halls": [
+            {
+                "cols": 10,
+                "name": "Sala 1",
+                "rows": 10,
+                "schedule": [
+                    {
+                        "movie": "Dune 2",
+                        "seats": [
+                            [
+                                {
+                                    "col": 0,
+                                    "owner": "Andrei",
+                                    "reserved": true,
+                                    "row": 0
+                                },
+                                {
+                                    "col": 1,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 0
+                                },
+                                {
+                                    "col": 2,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 0
+                                },
+                                {
+                                    "col": 3,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 0
+                                },
+                                {
+                                    "col": 4,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 0
+                                },
+                                {
+                                    "col": 5,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 0
+                                },
+                                {
+                                    "col": 6,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 0
+                                },
+                                {
+                                    "col": 7,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 0
+                                },
+                                {
+                                    "col": 8,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 0
+                                },
+                                {
+                                    "col": 9,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 0
+                                }
+                            ],
+                            [
+                                {
+                                    "col": 0,
+                                    "owner": "Alex",
+                                    "reserved": true,
+                                    "row": 1
+                                },
+                                {
+                                    "col": 1,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 1
+                                },
+                                {
+                                    "col": 2,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 1
+                                },
+                                {
+                                    "col": 3,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 1
+                                },
+                                {
+                                    "col": 4,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 1
+                                },
+                                {
+                                    "col": 5,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 1
+                                },
+                                {
+                                    "col": 6,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 1
+                                },
+                                {
+                                    "col": 7,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 1
+                                },
+                                {
+                                    "col": 8,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 1
+                                },
+                                {
+                                    "col": 9,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 1
+                                }
+                            ],
+                            [
+                                {
+                                    "col": 0,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 2
+                                },
+                                {
+                                    "col": 1,
+                                    "owner": "Andrei",
+                                    "reserved": true,
+                                    "row": 2
+                                },
+                                {
+                                    "col": 2,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 2
+                                },
+                                {
+                                    "col": 3,
+                                    "owner": "Alex",
+                                    "reserved": true,
+                                    "row": 2
+                                },
+                                {
+                                    "col": 4,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 2
+                                },
+                                {
+                                    "col": 5,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 2
+                                },
+                                {
+                                    "col": 6,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 2
+                                },
+                                {
+                                    "col": 7,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 2
+                                },
+                                {
+                                    "col": 8,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 2
+                                },
+                                {
+                                    "col": 9,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 2
+                                }
+                            ],
+                            [
+                                {
+                                    "col": 0,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 3
+                                },
+                                {
+                                    "col": 1,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 3
+                                },
+                                {
+                                    "col": 2,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 3
+                                },
+                                {
+                                    "col": 3,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 3
+                                },
+                                {
+                                    "col": 4,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 3
+                                },
+                                {
+                                    "col": 5,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 3
+                                },
+                                {
+                                    "col": 6,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 3
+                                },
+                                {
+                                    "col": 7,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 3
+                                },
+                                {
+                                    "col": 8,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 3
+                                },
+                                {
+                                    "col": 9,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 3
+                                }
+                            ],
+                            [
+                                {
+                                    "col": 0,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 4
+                                },
+                                {
+                                    "col": 1,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 4
+                                },
+                                {
+                                    "col": 2,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 4
+                                },
+                                {
+                                    "col": 3,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 4
+                                },
+                                {
+                                    "col": 4,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 4
+                                },
+                                {
+                                    "col": 5,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 4
+                                },
+                                {
+                                    "col": 6,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 4
+                                },
+                                {
+                                    "col": 7,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 4
+                                },
+                                {
+                                    "col": 8,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 4
+                                },
+                                {
+                                    "col": 9,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 4
+                                }
+                            ],
+                            [
+                                {
+                                    "col": 0,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 5
+                                },
+                                {
+                                    "col": 1,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 5
+                                },
+                                {
+                                    "col": 2,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 5
+                                },
+                                {
+                                    "col": 3,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 5
+                                },
+                                {
+                                    "col": 4,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 5
+                                },
+                                {
+                                    "col": 5,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 5
+                                },
+                                {
+                                    "col": 6,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 5
+                                },
+                                {
+                                    "col": 7,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 5
+                                },
+                                {
+                                    "col": 8,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 5
+                                },
+                                {
+                                    "col": 9,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 5
+                                }
+                            ],
+                            [
+                                {
+                                    "col": 0,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 6
+                                },
+                                {
+                                    "col": 1,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 6
+                                },
+                                {
+                                    "col": 2,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 6
+                                },
+                                {
+                                    "col": 3,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 6
+                                },
+                                {
+                                    "col": 4,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 6
+                                },
+                                {
+                                    "col": 5,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 6
+                                },
+                                {
+                                    "col": 6,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 6
+                                },
+                                {
+                                    "col": 7,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 6
+                                },
+                                {
+                                    "col": 8,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 6
+                                },
+                                {
+                                    "col": 9,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 6
+                                }
+                            ],
+                            [
+                                {
+                                    "col": 0,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 7
+                                },
+                                {
+                                    "col": 1,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 7
+                                },
+                                {
+                                    "col": 2,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 7
+                                },
+                                {
+                                    "col": 3,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 7
+                                },
+                                {
+                                    "col": 4,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 7
+                                },
+                                {
+                                    "col": 5,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 7
+                                },
+                                {
+                                    "col": 6,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 7
+                                },
+                                {
+                                    "col": 7,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 7
+                                },
+                                {
+                                    "col": 8,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 7
+                                },
+                                {
+                                    "col": 9,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 7
+                                }
+                            ],
+                            [
+                                {
+                                    "col": 0,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 8
+                                },
+                                {
+                                    "col": 1,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 8
+                                },
+                                {
+                                    "col": 2,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 8
+                                },
+                                {
+                                    "col": 3,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 8
+                                },
+                                {
+                                    "col": 4,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 8
+                                },
+                                {
+                                    "col": 5,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 8
+                                },
+                                {
+                                    "col": 6,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 8
+                                },
+                                {
+                                    "col": 7,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 8
+                                },
+                                {
+                                    "col": 8,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 8
+                                },
+                                {
+                                    "col": 9,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 8
+                                }
+                            ],
+                            [
+                                {
+                                    "col": 0,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 9
+                                },
+                                {
+                                    "col": 1,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 9
+                                },
+                                {
+                                    "col": 2,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 9
+                                },
+                                {
+                                    "col": 3,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 9
+                                },
+                                {
+                                    "col": 4,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 9
+                                },
+                                {
+                                    "col": 5,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 9
+                                },
+                                {
+                                    "col": 6,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 9
+                                },
+                                {
+                                    "col": 7,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 9
+                                },
+                                {
+                                    "col": 8,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 9
+                                },
+                                {
+                                    "col": 9,
+                                    "owner": "",
+                                    "reserved": false,
+                                    "row": 9
+                                }
+                            ]
+                        ],
+                        "time": "19:30"
+                    }
+                ]
+            }
+        ],
+        "location": "Suceava Mall",
+        "name": "Cinema Suceava"
+    }
+]

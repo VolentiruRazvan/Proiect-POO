@@ -1,0 +1,517 @@
+{
+    "cinemas": [
+        {
+            "halls": [
+                {
+                    "movies": [
+                        {
+                            "seats": [
+                                [
+                                    {
+                                        "col": 0,
+                                        "is_reserved": false,
+                                        "row": 0
+                                    },
+                                    {
+                                        "col": 1,
+                                        "is_reserved": false,
+                                        "row": 0
+                                    },
+                                    {
+                                        "col": 2,
+                                        "is_reserved": true,
+                                        "row": 0
+                                    },
+                                    {
+                                        "col": 3,
+                                        "is_reserved": false,
+                                        "row": 0
+                                    },
+                                    {
+                                        "col": 4,
+                                        "is_reserved": false,
+                                        "row": 0
+                                    },
+                                    {
+                                        "col": 5,
+                                        "is_reserved": false,
+                                        "row": 0
+                                    },
+                                    {
+                                        "col": 6,
+                                        "is_reserved": false,
+                                        "row": 0
+                                    },
+                                    {
+                                        "col": 7,
+                                        "is_reserved": false,
+                                        "row": 0
+                                    },
+                                    {
+                                        "col": 8,
+                                        "is_reserved": false,
+                                        "row": 0
+                                    },
+                                    {
+                                        "col": 9,
+                                        "is_reserved": false,
+                                        "row": 0
+                                    },
+                                    {
+                                        "col": 10,
+                                        "is_reserved": false,
+                                        "row": 0
+                                    },
+                                    {
+                                        "col": 11,
+                                        "is_reserved": false,
+                                        "row": 0
+                                    }
+                                ],
+                                [
+                                    {
+                                        "col": 0,
+                                        "is_reserved": false,
+                                        "row": 1
+                                    },
+                                    {
+                                        "col": 1,
+                                        "is_reserved": false,
+                                        "row": 1
+                                    },
+                                    {
+                                        "col": 2,
+                                        "is_reserved": false,
+                                        "row": 1
+                                    },
+                                    {
+                                        "col": 3,
+                                        "is_reserved": false,
+                                        "row": 1
+                                    },
+                                    {
+                                        "col": 4,
+                                        "is_reserved": false,
+                                        "row": 1
+                                    },
+                                    {
+                                        "col": 5,
+                                        "is_reserved": true,
+                                        "row": 1
+                                    },
+                                    {
+                                        "col": 6,
+                                        "is_reserved": false,
+                                        "row": 1
+                                    },
+                                    {
+                                        "col": 7,
+                                        "is_reserved": false,
+                                        "row": 1
+                                    },
+                                    {
+                                        "col": 8,
+                                        "is_reserved": false,
+                                        "row": 1
+                                    },
+                                    {
+                                        "col": 9,
+                                        "is_reserved": false,
+                                        "row": 1
+                                    },
+                                    {
+                                        "col": 10,
+                                        "is_reserved": false,
+                                        "row": 1
+                                    },
+                                    {
+                                        "col": 11,
+                                        "is_reserved": false,
+                                        "row": 1
+                                    }
+                                ],
+                                [
+                                    {
+                                        "col": 0,
+                                        "is_reserved": false,
+                                        "row": 2
+                                    },
+                                    {
+                                        "col": 1,
+                                        "is_reserved": false,
+                                        "row": 2
+                                    },
+                                    {
+                                        "col": 2,
+                                        "is_reserved": true,
+                                        "row": 2
+                                    },
+                                    {
+                                        "col": 3,
+                                        "is_reserved": false,
+                                        "row": 2
+                                    },
+                                    {
+                                        "col": 4,
+                                        "is_reserved": false,
+                                        "row": 2
+                                    },
+                                    {
+                                        "col": 5,
+                                        "is_reserved": true,
+                                        "row": 2
+                                    },
+                                    {
+                                        "col": 6,
+                                        "is_reserved": false,
+                                        "row": 2
+                                    },
+                                    {
+                                        "col": 7,
+                                        "is_reserved": false,
+                                        "row": 2
+                                    },
+                                    {
+                                        "col": 8,
+                                        "is_reserved": false,
+                                        "row": 2
+                                    },
+                                    {
+                                        "col": 9,
+                                        "is_reserved": false,
+                                        "row": 2
+                                    },
+                                    {
+                                        "col": 10,
+                                        "is_reserved": false,
+                                        "row": 2
+                                    },
+                                    {
+                                        "col": 11,
+                                        "is_reserved": false,
+                                        "row": 2
+                                    }
+                                ],
+                                [
+                                    {
+                                        "col": 0,
+                                        "is_reserved": false,
+                                        "row": 3
+                                    },
+                                    {
+                                        "col": 1,
+                                        "is_reserved": false,
+                                        "row": 3
+                                    },
+                                    {
+                                        "col": 2,
+                                        "is_reserved": false,
+                                        "row": 3
+                                    },
+                                    {
+                                        "col": 3,
+                                        "is_reserved": false,
+                                        "row": 3
+                                    },
+                                    {
+                                        "col": 4,
+                                        "is_reserved": false,
+                                        "row": 3
+                                    },
+                                    {
+                                        "col": 5,
+                                        "is_reserved": false,
+                                        "row": 3
+                                    },
+                                    {
+                                        "col": 6,
+                                        "is_reserved": false,
+                                        "row": 3
+                                    },
+                                    {
+                                        "col": 7,
+                                        "is_reserved": false,
+                                        "row": 3
+                                    },
+                                    {
+                                        "col": 8,
+                                        "is_reserved": false,
+                                        "row": 3
+                                    },
+                                    {
+                                        "col": 9,
+                                        "is_reserved": true,
+                                        "row": 3
+                                    },
+                                    {
+                                        "col": 10,
+                                        "is_reserved": false,
+                                        "row": 3
+                                    },
+                                    {
+                                        "col": 11,
+                                        "is_reserved": false,
+                                        "row": 3
+                                    }
+                                ],
+                                [
+                                    {
+                                        "col": 0,
+                                        "is_reserved": false,
+                                        "row": 4
+                                    },
+                                    {
+                                        "col": 1,
+                                        "is_reserved": false,
+                                        "row": 4
+                                    },
+                                    {
+                                        "col": 2,
+                                        "is_reserved": false,
+                                        "row": 4
+                                    },
+                                    {
+                                        "col": 3,
+                                        "is_reserved": false,
+                                        "row": 4
+                                    },
+                                    {
+                                        "col": 4,
+                                        "is_reserved": false,
+                                        "row": 4
+                                    },
+                                    {
+                                        "col": 5,
+                                        "is_reserved": false,
+                                        "row": 4
+                                    },
+                                    {
+                                        "col": 6,
+                                        "is_reserved": false,
+                                        "row": 4
+                                    },
+                                    {
+                                        "col": 7,
+                                        "is_reserved": false,
+                                        "row": 4
+                                    },
+                                    {
+                                        "col": 8,
+                                        "is_reserved": false,
+                                        "row": 4
+                                    },
+                                    {
+                                        "col": 9,
+                                        "is_reserved": false,
+                                        "row": 4
+                                    },
+                                    {
+                                        "col": 10,
+                                        "is_reserved": false,
+                                        "row": 4
+                                    },
+                                    {
+                                        "col": 11,
+                                        "is_reserved": false,
+                                        "row": 4
+                                    }
+                                ],
+                                [
+                                    {
+                                        "col": 0,
+                                        "is_reserved": false,
+                                        "row": 5
+                                    },
+                                    {
+                                        "col": 1,
+                                        "is_reserved": false,
+                                        "row": 5
+                                    },
+                                    {
+                                        "col": 2,
+                                        "is_reserved": false,
+                                        "row": 5
+                                    },
+                                    {
+                                        "col": 3,
+                                        "is_reserved": false,
+                                        "row": 5
+                                    },
+                                    {
+                                        "col": 4,
+                                        "is_reserved": false,
+                                        "row": 5
+                                    },
+                                    {
+                                        "col": 5,
+                                        "is_reserved": false,
+                                        "row": 5
+                                    },
+                                    {
+                                        "col": 6,
+                                        "is_reserved": false,
+                                        "row": 5
+                                    },
+                                    {
+                                        "col": 7,
+                                        "is_reserved": false,
+                                        "row": 5
+                                    },
+                                    {
+                                        "col": 8,
+                                        "is_reserved": false,
+                                        "row": 5
+                                    },
+                                    {
+                                        "col": 9,
+                                        "is_reserved": false,
+                                        "row": 5
+                                    },
+                                    {
+                                        "col": 10,
+                                        "is_reserved": false,
+                                        "row": 5
+                                    },
+                                    {
+                                        "col": 11,
+                                        "is_reserved": false,
+                                        "row": 5
+                                    }
+                                ],
+                                [
+                                    {
+                                        "col": 0,
+                                        "is_reserved": false,
+                                        "row": 6
+                                    },
+                                    {
+                                        "col": 1,
+                                        "is_reserved": false,
+                                        "row": 6
+                                    },
+                                    {
+                                        "col": 2,
+                                        "is_reserved": false,
+                                        "row": 6
+                                    },
+                                    {
+                                        "col": 3,
+                                        "is_reserved": false,
+                                        "row": 6
+                                    },
+                                    {
+                                        "col": 4,
+                                        "is_reserved": false,
+                                        "row": 6
+                                    },
+                                    {
+                                        "col": 5,
+                                        "is_reserved": false,
+                                        "row": 6
+                                    },
+                                    {
+                                        "col": 6,
+                                        "is_reserved": false,
+                                        "row": 6
+                                    },
+                                    {
+                                        "col": 7,
+                                        "is_reserved": false,
+                                        "row": 6
+                                    },
+                                    {
+                                        "col": 8,
+                                        "is_reserved": false,
+                                        "row": 6
+                                    },
+                                    {
+                                        "col": 9,
+                                        "is_reserved": false,
+                                        "row": 6
+                                    },
+                                    {
+                                        "col": 10,
+                                        "is_reserved": false,
+                                        "row": 6
+                                    },
+                                    {
+                                        "col": 11,
+                                        "is_reserved": false,
+                                        "row": 6
+                                    }
+                                ],
+                                [
+                                    {
+                                        "col": 0,
+                                        "is_reserved": false,
+                                        "row": 7
+                                    },
+                                    {
+                                        "col": 1,
+                                        "is_reserved": false,
+                                        "row": 7
+                                    },
+                                    {
+                                        "col": 2,
+                                        "is_reserved": false,
+                                        "row": 7
+                                    },
+                                    {
+                                        "col": 3,
+                                        "is_reserved": false,
+                                        "row": 7
+                                    },
+                                    {
+                                        "col": 4,
+                                        "is_reserved": false,
+                                        "row": 7
+                                    },
+                                    {
+                                        "col": 5,
+                                        "is_reserved": false,
+                                        "row": 7
+                                    },
+                                    {
+                                        "col": 6,
+                                        "is_reserved": false,
+                                        "row": 7
+                                    },
+                                    {
+                                        "col": 7,
+                                        "is_reserved": false,
+                                        "row": 7
+                                    },
+                                    {
+                                        "col": 8,
+                                        "is_reserved": false,
+                                        "row": 7
+                                    },
+                                    {
+                                        "col": 9,
+                                        "is_reserved": false,
+                                        "row": 7
+                                    },
+                                    {
+                                        "col": 10,
+                                        "is_reserved": false,
+                                        "row": 7
+                                    },
+                                    {
+                                        "col": 11,
+                                        "is_reserved": false,
+                                        "row": 7
+                                    }
+                                ]
+                            ],
+                            "time": "19:00",
+                            "title": "Interstellar"
+                        }
+                    ],
+                    "name": "Sala 1 VIP"
+                }
+            ],
+            "name": "Cinema Premium Suceava"
+        }
+    ],
+    "name": "Reteaua Moldova"
+}
